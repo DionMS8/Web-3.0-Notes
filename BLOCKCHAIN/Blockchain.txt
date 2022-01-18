@@ -1,0 +1,29 @@
+=====[BLOCKCHAIN]=======================================================
+
+- DECENTRALIZATION OF CONTROL
+- TRANSPARENCY
+- CENSORSHIP RESISTANT
+
+- IPFS => INTERPLANETARY FILE SYSTEM
+
+
+===[USE CASES]===========================================================
+
+- DEFI => DECENTRALIZED FINANCE
+- NFTs => NON-FUNGIBLE TOKENS
+- Web 3.0
+- METAVERSE
+- GAMING
+
+
+===[TECHNOLOGIES]===========================================================
+
+- SOLIDITY
+- WEB3.JS
+- ETHER.JS
+
+
+
+
+
+
