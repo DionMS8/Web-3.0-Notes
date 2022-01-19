@@ -1,4 +1,4 @@
-# Web 3.0 Notes
+# Web 3.0 Notes 🌐3️⃣
 
 ## General Description
 
