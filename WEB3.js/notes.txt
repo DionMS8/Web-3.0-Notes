@@ -1,0 +1,24 @@
+=====[WEB3.JS]===============================================================
+
+- WEB3.JS IS A JAVASCRIPT INTERFACE TO THE 
+ETHEREUM BLOCKCHAIN
+
+- THE METAMASK CHROME EXTENSION WAS ABLE TO 
+INTERACT WITH CERTAIN WEBPAGES BY INJECTING 
+WEB3.JS INTO THE WEBPAGE. HOWEVER, THE LIBRARY 
+WAS DEPRECATED AND METAMASK REMOVED WEB3.JS 
+ALTOGETHER. 
+
+- CHECK THE CURRENT ACTIVE ACCOUNT ON METAMASK
+- SEND TRANSACTIONS FROM THE WEBPAGE
+- GET THE BALANCE OF AN ACCOUNT
+
+===[READ FUNCTIONS]================================================================
+
+- get block
+- get balance
+- get transaction
+
+===[WRITE FUNCTIONS]================================================================
+
+
